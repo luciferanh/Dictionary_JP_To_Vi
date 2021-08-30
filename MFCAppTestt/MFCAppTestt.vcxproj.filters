@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Sounds">
+      <UniqueIdentifier>{563b8091-a0b9-443c-ac93-3c9a8bc32278}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MFCAppTestt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCAppTesttDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TuDien.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DongTu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Main_DS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="list_remember.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MFCAppTestt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCAppTesttDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TuDien.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DongTu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main_DS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="list_remember.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MFCAppTestt.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\MFCAppTestt.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\MFCAppTestt.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Sounds\ありがとうございました。。.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\おやすみなさい.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\ごめんください.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\トイレ.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\上手.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\便利.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\優しい.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\勉強する.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\太陽.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\嬉しい.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\寒い.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\寝る.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\日本.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\月.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\浴びる.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\行く.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\読む.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\起きる.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+  </ItemGroup>
+</Project>
